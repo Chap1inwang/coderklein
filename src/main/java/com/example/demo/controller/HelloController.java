@@ -13,5 +13,5 @@ public class HelloController {
     @ResponseBody
     public String sayHello() {
         return "Hello, Coder Klein";
-    }  
+    }
 }
